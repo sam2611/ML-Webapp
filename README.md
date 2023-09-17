@@ -1,6 +1,8 @@
 # ML-Webapp
 # Multiple Disease Detection Project
 
+<a href="[url](https://ml-webapp-dyjruv9b6wtw7dyzp8ajpx.streamlit.app/#diabetes-prediction-using-ml)">view here</a>
+
 ## Overview
 The Multiple Disease Detection Project is a comprehensive machine learning-based system designed to predict three different diseases: diabetes, heart disease, and Parkinson's disease. This application provides a user-friendly interface for disease prediction based on specific input parameters. Early detection can help individuals take proactive healthcare measures.
 
