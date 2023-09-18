@@ -20,4 +20,4 @@ To get started with the project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/multiple-disease-detection.git
+   git clone https://github.com/sam2611/multiple-disease-detection.git
